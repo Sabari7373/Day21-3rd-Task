@@ -1,0 +1,45 @@
+.container{
+    margin-top: 30px;
+    background-image: linear-gradient(rgb(243, 189, 13),rgb(232, 159, 56));
+    border-radius: 5ch;
+}
+.navbar{
+   justify-content: center;
+   background-color:#e05413 !important;
+   border-radius: 5ch;
+  
+}
+    
+.example{
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+}
+input{
+    width: 400px;
+    padding: 10px;
+    font-size: 17px;
+}
+button{
+    width: 60px;
+  padding: 10px;
+  color: white;
+  font-size: 17px;
+  background: #19e031;
+  border: 1px solid grey;
+}
+button:hover {
+    background: #e00909;
+  }
+  
+  .message{
+    text-align: center;
+  }
+.result{
+    text-align: center;
+    margin: 40px;
+    padding: 50px;
+    height: 300px;
+    width: auto;
+
+}
